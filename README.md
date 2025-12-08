@@ -4,7 +4,8 @@
 2. Check [.gitignore](.gitignore) file and modify it if it is necessary
 3. Fill out the [CODEOWNERS](./.github/CODEOWNERS) file. Here is the official github [guide](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners)
 4. Check the available [workflows](./.github/workflows) and adjust them according to your needs.
-5. Update this Readme file and remove this chapter from it.
+5. Check and update the [LICENSE.md](./LICENSE.md) file copyright year and holder.
+6. Update this Readme file and remove this chapter from it.
 
 ## 1. Project Overview
 Provide a concise description of what the project does, who it is for, and why it exists.
